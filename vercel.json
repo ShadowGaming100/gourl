@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/clicks",
+      "destination": "/clicks.html"
+    },
+    {
+      "source": "/:id",
+      "destination": "/api/:id"
+    }
+  ]
+}
